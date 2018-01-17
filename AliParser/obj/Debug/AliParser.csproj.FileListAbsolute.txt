@@ -1,0 +1,16 @@
+c:\users\nikita\source\repos\AliParser\AliParser\bin\Debug\AliParser.exe
+c:\users\nikita\source\repos\AliParser\AliParser\bin\Debug\AliParser.pdb
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.csprojResolveAssemblyReference.cache
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\MainWindow.g.cs
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\App.g.cs
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser_MarkupCompile.cache
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser_MarkupCompile.lref
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\MainWindow.baml
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.g.resources
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.Properties.Resources.resources
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.csproj.GenerateResource.Cache
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.csproj.CoreCompileInputs.cache
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.exe
+c:\users\nikita\source\repos\AliParser\AliParser\obj\Debug\AliParser.pdb
+c:\users\nikita\source\repos\AliParser\AliParser\bin\Debug\CsQuery.dll
+c:\users\nikita\source\repos\AliParser\AliParser\bin\Debug\CsQuery.xml

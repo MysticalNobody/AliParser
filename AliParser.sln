@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliParser", "AliParser\AliParser.csproj", "{8ACB6059-5C55-4469-A09D-601D33F17069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACB6059-5C55-4469-A09D-601D33F17069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACB6059-5C55-4469-A09D-601D33F17069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACB6059-5C55-4469-A09D-601D33F17069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACB6059-5C55-4469-A09D-601D33F17069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1789ED85-55A9-4F08-B85D-52F8A6FED400}
+	EndGlobalSection
+EndGlobal
