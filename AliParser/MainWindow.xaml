@@ -13,8 +13,15 @@
         </Grid.RowDefinitions>
         <TextBox x:Name="UrlText" VerticalContentAlignment="Center" Height="30" TextWrapping="Wrap" Text="Enter url" VerticalAlignment="Top" FontSize="14" HorizontalScrollBarVisibility="Visible" Margin="0,0,74,0" Padding="0" Grid.RowSpan="2"/>
         <Button x:Name="StartParseBtn" Content="Start" HorizontalAlignment="Right" Margin="0" VerticalAlignment="Top" Width="75" Height="30" Click="StartParseBtn_Click" Background="White" Grid.RowSpan="2"/>
-        <Rectangle Fill="#FFF4F4F5" Grid.Row="1" Stroke="Black" Margin="0"/>
         <DataGrid x:Name="DataGrid" Margin="0,49,0,0" Background="White" Grid.Row="1"/>
         <WebBrowser x:Name="wb" HorizontalAlignment="Left" Height="100" Margin="0,334.154,0,-2" VerticalAlignment="Top" Width="100" Visibility="Hidden" Opacity="0.025" Grid.Row="1"/>
+        <Button Content="Средняя цена" HorizontalAlignment="Left" Margin="10,8,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90"/>
+        <Label Content="Не рассчитано&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,23,0,0" Grid.Row="1" VerticalAlignment="Top" Width="215" Height="26"/>
+        <ComboBox HorizontalAlignment="Left" Margin="105,8,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120" Height="20" SelectedIndex="0">
+            <ComboBoxItem Content="Считать только мин."/>
+            <ComboBoxItem Content="Считать мин. и макс. отдельно"/>
+            <ComboBoxItem Content="Считать среднее между мин. и макс."/>
+        </ComboBox>
+        <Button Content="Экспорт в Excel" HorizontalAlignment="Left" Margin="576,8,0,0" Grid.Row="1" VerticalAlignment="Top" Width="99" Height="36" Click="Button_Click"/>
     </Grid>
 </Window>
